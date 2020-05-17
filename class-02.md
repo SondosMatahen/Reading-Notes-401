@@ -32,6 +32,4 @@
 - inheritance:  the process where one class acquires the properties (methods and fields) of another.
 - constructor: the object that owns the code.
 - instance: the copy of the Reference that points to object at a point of time.
--
--
 
