@@ -10,3 +10,15 @@
 
 ## Express Router:
 - What exactly is the Express Router? It is a mini express application without all the bells and whistles of an express application, just the routing stuff. Let's take a look at exactly what this means. We'll go through each section of our site and use different features of the Router.
+
+## Route methods
+- A route method is derived from one of the HTTP methods, and is attached to an instance of the express class.
+
+## Route paths
+- Route paths define the endpoints at which requests can be made also Route paths can be strings, string patterns, or regular expressions.
+
+## Modularizing :
+- Modularizing ensures that external functionality is created in such a way that it isn't dependent on other external functionality, a concept known as loose coupling.
+
+## Route parameters
+- Route parameters are named URL segments that are used to capture the values specified at their position in the URL. The captured values are populated in the req.params object, with the name of the route parameter specified in the path as their respective keys.
