@@ -1,4 +1,4 @@
-class 01     | [read 1](https://x-anas-x.github.io/Reading-Notes-401/class-01)
+ class 01    | [read 1](https://x-anas-x.github.io/Reading-Notes-401/class-01)
  class 02    | [read 2](https://x-anas-x.github.io/Reading-Notes-401/class-02)
  class 03    | [read 3](https://x-anas-x.github.io/Reading-Notes-401/class-03)
  class 04    | [read 4](https://x-anas-x.github.io/Reading-Notes-401/class-04)
