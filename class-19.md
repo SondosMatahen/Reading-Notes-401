@@ -16,5 +16,5 @@
 >- any messages broadcast by the server will clearly be missed by the client.
 >-These are known as “Real Time” messaging systems.
 
-##Namespace:
+## Namespace:
 - It is a declarative region that provides a scope to the identifiers (the names of types, functions, variables, etc) inside it. Namespaces are used to organize code into logical groups and to prevent name collisions that can occur especially when your codebase includes multiple libraries.
