@@ -21,8 +21,6 @@
 - class 21    | [read 21](https://x-anas-x.github.io/Reading-Notes-401/class-21)
 - class 22    | [read 22](https://x-anas-x.github.io/Reading-Notes-401/class-22)
 - class 23    | [read 23](https://x-anas-x.github.io/Reading-Notes-401/class-23)
-- class 24    | []()
-- class 25    | []()
 - class 26    | []()
 - class 27    | []()
 - class 28    | []()
